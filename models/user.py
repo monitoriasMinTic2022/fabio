@@ -4,4 +4,4 @@ class User(BaseModel):
     name: str
     email: str
     passw: str
-    username: str
+    username: str 
